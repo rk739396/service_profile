@@ -1,0 +1,134 @@
+        .challenges {
+            font-size: 20px;
+            color: white;
+        }
+
+        p.col-md-2.cf-style3-name.multi_step.contry_code {
+            padding: 0;
+        }
+
+        p.col-md-10.cf-style3-name.multi_step.mobile_no {
+            padding-left: 10px;
+            padding-right: 0px;
+        }
+
+        .col-md-6.contry_code_mobile_no {
+            padding-left: 10px;
+            padding-right: 0;
+        }
+
+        /*Site Audit Form*/
+        @media (min-width: 800px) {
+            .whole-class {
+                display: flex;
+            }
+
+        }
+
+        @media (max-width: 700px) {
+            input#sub {
+                width: 100% !important;
+            }
+        }
+
+        .field-sec {
+            padding: 10px
+        }
+
+        .submit-button {
+            padding: 10px
+        }
+
+        @media screen and (min-device-width: 300px) and (max-device-width: 900px) {
+            .whole-class {
+                display: unset;
+            }
+
+        }
+
+        form .wpcf7-spinner {
+            width: 24px !important;
+            height: 24px !important;
+        }
+
+        @media (max-width: 500px) {
+            .wpcf7 input {
+                width: 100% !important;
+            }
+
+            form#\31 ygjzw {
+                display: grid !important;
+            }
+
+            form#\31 ygjzw input[type="email"] {
+                width: 100% !important;
+                border-radius: 25px !important;
+                height: 50px;
+                padding: 20px !important;
+            }
+
+            form#\31 ygjzw button {
+                width: 100% !important;
+                border-radius: 25px !important;
+                margin-top: 10px !important;
+            }
+        }
+
+        div#vc_row-62da54b397585 {
+            display: none;
+        }
+
+        span.wpcf7-not-valid-tip {
+            color: red !important;
+        }
+
+        input.wpcf7-form-control.wpcf7-submit {
+            background-color: #eda608 !important;
+        }
+
+        @media only screen and (max-width: 700px) {
+            iframe.custom-iframe {
+                height: 315px;
+            }
+
+            a#arf_modal_default {
+                display: none;
+            }
+        }
+
+        @media only screen and (min-width: 700px) {
+            iframe.custom-iframe {
+                height: 235px;
+            }
+
+        }
+
+        header.site-header.animated-header.mobile-menu-layout-default.ios-load .site-header_mobile #arf_modal_default {
+            color: #fff !important;
+            letter-spacing: .9px;
+        }
+
+        @media (max-width: 576px) {
+            #arffrm_101_container .arf_material_outline_form .arfsubmitbutton .arf_submit_btn {
+                width: 257px !important;
+            }
+        }
+
+        @media (max-width: 768px) {
+
+            .gem-button-size-medium,
+            input.gem-button-size-medium {
+                font-size: 10px !important;
+            }
+        }
+
+        p {
+            color: #000000 !important;
+
+        }
+
+        @media (max-width: 768px) {
+            .page-id-44672 .sticky_button {
+                display: none;
+            }
+        }
