@@ -1,0 +1,55 @@
+body {
+  background-color: #070c1c;
+  color: #c7bda4;
+  font-family: 'Roboto', sans-serif;
+}
+
+.section-title {
+  color: #ffa93a;
+  font-size: 2.3rem;
+  font-weight: bold;
+  margin-bottom: 1.3rem;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 1px;
+}
+
+.card {
+  background-color: #11182a;
+  border-color: #279ecd;
+  border-radius: 1.1rem;
+  box-shadow: 0 4px 20px 0 rgba(39,158,205,0.06);
+}
+
+.badge-tech {
+  background: #222a3e;
+  color: #ffa93a;
+  border-radius: 0.7em;
+  padding: 0.33em 0.7em;
+  font-size: 0.95em;
+  margin: 2px 4px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+
+.btn-main {
+  background: linear-gradient(90deg,#3b80dc 10%, #279ecd 80%);
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  border-radius: 0.6em;
+  padding: 0.7em 1.7em;
+  transition: background 0.2s;
+}
+.btn-main:hover {
+  background: linear-gradient(90deg,#279ecd 10%, #3b80dc 80%);
+  color: #fff;
+}
+
+#footer {
+  color: #ffa93a;
+}
+
+a, a:visited, a:hover {
+  text-decoration: none !important;
+}

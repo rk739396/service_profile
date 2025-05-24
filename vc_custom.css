@@ -1,0 +1,835 @@
+        .homepage_quickfinder .quickfinder-item-box {
+            padding-bottom: 40px;
+            height: 273px
+        }
+
+        .homepage_quickfinder .quickfinder-item-inner {
+            text-align: center
+        }
+
+        .homepage_quickfinder .quickfinder-item-title {
+            color: #fff !important
+        }
+
+        .homepage_quickfinder .quickfinder-item-text {
+            color: #fff !important;
+            font-size: 18px
+        }
+
+        .homepage_padd .vc_column-inner {
+            padding-top: 0 !important
+        }
+
+        .homepage_clients .caroufredsel_wrapper {
+            height: 130px
+        }
+
+        .homepage_quickfinder .quickfinder {
+            padding: 0
+        }
+
+        .homepage_audit .form_preview .row {
+            padding: 5px 30px 0 55px
+        }
+
+        .black_color_head {
+            color: #3c3950;
+            font-size: 45px;
+            line-height: 60px
+        }
+
+        .ytp-right-controls {
+            display: none !important
+        }
+
+        .dental_seo_service_page .model-popup-btn {
+            margin-top: -110px;
+            height: 60px;
+            background-color: transparent
+        }
+
+        .dental_seo_service_page .model-popup-container span p {
+            margin: 0 0 0 !important
+        }
+
+        @media (max-width:1199px) {
+            .wpb_row>* {
+                margin-top: -1px
+            }
+
+            body .vc_custom_1460209224109 {
+                margin-left: 0 !important;
+                background-color: #f0f3f2
+            }
+
+            body .vc_custom_1460209235394 {
+                margin-left: 0 !important;
+                background-color: #2c2e3d
+            }
+
+            body .vc_custom_1460117625618 {
+                background-image: none !important;
+                background-color: #2c2e3d
+            }
+
+            body .vc_custom_1460204155164 {
+                margin-right: 0 !important
+            }
+
+            body .vc_custom_1460205205621 {
+                background-image: none !important;
+                background-color: #f0f3f2
+            }
+
+            body .vc_custom_1460132297035 .fullwidth-block {
+                background-image: none !important;
+                padding-left: 30px !important;
+                padding-bottom: 330px !important
+            }
+
+            body .vc_custom_1460131470783 .fullwidth-block {
+                padding-bottom: 50px !important
+            }
+
+            body .vc_custom_1460207028710 .gem-textbox-content {
+                background-image: none !important
+            }
+
+            body .vc_custom_1460207028710 .gem-textbox-content .gem-divider {
+                margin: 30px !important
+            }
+
+            body .vc_column-inner.vc_custom_1460118632586 div {
+                text-align: left !important
+            }
+
+            body .vc_custom_1460119329727 .fullwidth-block {
+                padding-left: 20px !important
+            }
+
+            body .vc_column-inner.vc_custom_1460204509686 {
+                background-color: transparent !important
+            }
+
+            body .vc_column-inner.vc_custom_1460209497500,
+            body .vc_column-inner.vc_custom_1460209510088,
+            body .vc_column-inner.vc_custom_1460209520987 {
+                padding-left: 20px !important
+            }
+
+            body .vc_column-inner.vc_custom_1460209497500 .wpb_text_column.wpb_content_element,
+            body .vc_column-inner.vc_custom_1460209510088 .wpb_text_column.wpb_content_element,
+            body .vc_column-inner.vc_custom_1460209520987 .wpb_text_column.wpb_content_element {
+                text-align: left
+            }
+        }
+
+        @media (max-width:981px) {
+            .vc_custom_1460211427135 .fullwidth-block {
+                padding-bottom: 300px !important
+            }
+
+            .full2 .fullwidth-block {
+                margin-top: -358px !important
+            }
+
+            .custom-icon-flow-1 .gem-icon-with-text,
+            .custom-icon-flow-2 .gem-icon-with-text,
+            .custom-icon-flow-3 .gem-icon-with-text {
+                width: 100% !important
+            }
+
+            .vc_column-inner.vc_custom_1460190003213 .gem-icon-with-text.gem-icon-with-text-icon-size-medium.gem-icon-with-text-float-right {
+                float: left
+            }
+
+            .vc_column-inner.vc_custom_1460190003213 div,
+            .vc_column-inner.vc_custom_1460190003213 p {
+                text-align: left !important;
+                max-width: 100% !important
+            }
+
+            body .vc_custom_1460132439832 {
+                margin-top: 0 !important
+            }
+        }
+
+        @media (max-width:768px) {
+            .serp_largeRow {
+                width: 100% !important
+            }
+
+            .check_btn {
+                width: 100% !important
+            }
+
+            .almost_btn {
+                padding: 22px;
+                font-size: 2.5rem
+            }
+
+            .audit_btn {
+                width: 100% !important
+            }
+
+            .serp_largeRow {
+                margin-left: 0 !important
+            }
+        }
+
+        @media (max-width:767px) {
+            .vc_custom_1460211688666 .title-xlarge span {
+                font-size: 40px !important;
+                line-height: 30px !important
+            }
+
+            .vc_custom_1460207956265 .fullwidth-block-background {
+                background-size: cover
+            }
+
+            .vc_custom_1465373896960 {
+                padding-left: 42px !important
+            }
+
+            body .vc_custom_1460203803171 {
+                margin-top: 70px !important
+            }
+
+            .gem-list.gem-list-type-checkbox {
+                text-align: center !important
+            }
+
+            .vc_column-inner.vc_custom_1460203803171 {
+                padding-left: 44px !important
+            }
+
+            .vc_custom_1460109800952 .fullwidth-block {
+                padding-top: 100px !important;
+                padding: 20px !important;
+                padding-bottom: 0 !important
+            }
+
+            .vc_custom_1460109800952 .fullwidth-block img.gem-wrapbox-element.img-responsive {
+                margin-bottom: -8px
+            }
+
+            .vc_custom_1460109800952 .gem-image.gem-wrapbox.gem-wrapbox-style-default.gem-wrapbox-position-left {
+                margin-top: 40px
+            }
+
+            .vc_custom_1460121346397 .custom-icon-margin .gem-icon-with-text {
+                margin-right: 0;
+                float: left
+            }
+
+            .custom-icon-flow-1 .gem-icon-with-text,
+            .custom-icon-flow-2 .gem-icon-with-text,
+            .custom-icon-flow-3 .gem-icon-with-text {
+                width: 100% !important
+            }
+
+            .vc_column-inner.vc_custom_1460132439832 .vc_single_image-wrapper.vc_box_border_grey {
+                margin-top: 50px
+            }
+
+            .vc_column-inner.vc_custom_1460190003213 div,
+            .vc_column-inner.vc_custom_1460190003213 p,
+            .vc_custom_1460121346397 div,
+            .vc_custom_1460121346397 p,
+            .vc_custom_1460213602582 div,
+            .vc_custom_1460213602582 p {
+                text-align: left !important;
+                max-width: 100% !important
+            }
+
+            .vc_custom_1460121346397,
+            .vc_custom_1460213602582 {
+                padding-left: 20px !important
+            }
+
+            body .vc_column-inner.vc_custom_1460213602582 {
+                padding-left: 44px !important
+            }
+
+            .wpb_text_column.wpb_content_element.sbt span {
+                max-width: 100% !important;
+                padding-right: 30px
+            }
+
+            .vc_custom_1460211427135 .fullwidth-block {
+                padding-bottom: 40px !important
+            }
+
+            .full2 .fullwidth-block {
+                margin-top: 50px !important;
+                margin-bottom: 72px
+            }
+
+            .custom-icon-flow .gem-icon-with-text {
+                width: 100%
+            }
+
+            .vc_custom_1460205061215 .styled-subtitle {
+                text-align: center
+            }
+
+            .vc_custom_1460118632586 .gem-divider {
+                margin-top: 150px
+            }
+
+            .vc_custom_1460190003213 .gem-icon-with-text.gem-icon-with-text-icon-size-medium.gem-icon-with-text-float-right {
+                float: left
+            }
+
+            .vc_column-inner.vc_custom_1460207956265 .fullwidth-block {
+                background-size: cover
+            }
+
+            body .vc_custom_1460381148935 {
+                background-image: none !important;
+                margin-top: 0 !important
+            }
+
+            body .vc_custom_1460381148935 .styled-subtitle {
+                text-align: center
+            }
+
+            span.title-xlarge-smp {
+                font-size: 40px !important;
+                line-height: 27px !important
+            }
+
+            .samp-cont {
+                margin-bottom: 60px
+            }
+
+            body .vc_custom_1460204863115 {
+                padding-right: 0 !important
+            }
+
+            .vc_separator.vc_separator_align_center>* {
+                padding: 0 .7em;
+                margin: 0 auto 20px
+            }
+
+            .serp_largeRow {
+                margin-left: 0 !important
+            }
+        }
+
+        @media (max-width:321px) {
+            .title-h1 {
+                font-size: 30px !important
+            }
+
+            span.title-xlarge-smp {
+                font-size: 34px !important;
+                line-height: 22px !important
+            }
+
+            .title-xlarge {
+                font-size: 34px;
+                line-height: 54px
+            }
+
+            .gem-button-size-medium {
+                height: 50px;
+                line-height: 50px;
+                padding: 0 13px;
+                font-size: 15px;
+                margin: 26px
+            }
+
+            .serp_largeRow {
+                margin-left: 0 !important
+            }
+        }
+
+        .vc_custom_1460359418145 .gem-icon {
+            margin-right: -22px
+        }
+
+        .full .fullwidth-block {
+            z-index: 99;
+            margin-bottom: -764px
+        }
+
+        .full2 .fullwidth-block {
+            margin-top: -643px
+        }
+
+        .custom-column {
+            min-height: 0
+        }
+
+        .logo-1 .vc_separator.vc_separator_align_center h3 {
+            color: #3c3950
+        }
+
+        .logo-2 .vc_separator.vc_separator_align_center h3 {
+            color: #3c3950
+        }
+
+        .custom-hover .vc_column-inner {
+            outline: 3px solid transparent;
+            -o-transition: all 0.3s;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s
+        }
+
+        .custom-hover:hover .vc_column-inner {
+            outline: 3px solid #a3e7f0;
+            -o-transition: all 0.3s;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s
+        }
+
+        .quickfinder.quickfinder-title-thin .quickfinder-item-title {
+            font-family: "Source Sans Pro";
+            font-size: 24px;
+            font-weight: 300;
+            line-height: 25px;
+            letter-spacing: 0;
+            text-transform: capitalize
+        }
+
+        .quickfinder-item-box {
+            padding: 0;
+            text-align: left !important
+        }
+
+        .quickfinder-item {
+            padding-left: 13px;
+            padding-right: 13px
+        }
+
+        .quickfinder-item-text {
+            line-height: 23px
+        }
+
+        .quickfinder-item-text {
+            font-size: 14px
+        }
+
+        .quickfinder .inline-column {
+            margin-bottom: 63px
+        }
+
+        .custom-icon-flow .gem-icon-with-text {
+            width: 350px;
+            margin: 0 auto
+        }
+
+        .custom-icon-flow-2 .gem-icon-with-text {
+            width: 488px;
+            margin: 0 auto
+        }
+
+        .custom-icon-flow-3 .gem-icon-with-text {
+            width: 849px;
+            margin: 0 auto
+        }
+
+        .quickfinder-item-info {
+            padding-top: 10px
+        }
+
+        .tiff .gem-icon-size-medium {
+            border-width: 2px;
+            height: 76px
+        }
+
+        .custom-icon-flow-3 .styled-subtitle {
+            padding-top: 11px
+        }
+
+        span.gem-dropcap-letter {
+            font-family: "Montserrat UltraLight";
+            font-weight: 300
+        }
+
+        .custom-icon-margin .gem-icon-with-text {
+            margin-right: -19px !important
+        }
+
+        .quickfinder-item.icon-size-xlarge .quickfinder-item-image-shape-square {
+            border-radius: 3px
+        }
+
+        .gem-icon-size-large.gem-simple-icon {
+            width: 80px;
+            height: 80px;
+            line-height: 80px;
+            font-size: 80px !important
+        }
+
+        .quickfinder-item-title {
+            font-size: 24px !important
+        }
+
+        .bus .gem-icon.gem-simple-icon {
+            width: 35px !important;
+            height: 32px !important;
+            font-size: 32px !important;
+            line-height: 32px !important
+        }
+
+        .ret .vc_column-inner {
+            outline: 3px solid transparent;
+            -o-transition: all 0.3s;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+            padding-top: 20px
+        }
+
+        .ret .vc_column-inner:hover {
+            outline: 3px solid #a3e7f0;
+            -o-transition: all 0.3s;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s
+        }
+
+        .custom-icon-flow-2 .ret .vc_column-inner:hover {
+            outline: 3px solid #3e5466
+        }
+
+        .quickfinder-item-effect-image-scale .quickfinder-item-picture:after {
+            display: none
+        }
+
+        .quickfinder-item-effect-image-scale img {
+            transition: none !important;
+            position: relative;
+            z-index: 1
+        }
+
+        .quickfinder-img-size-xlarge {
+            width: 200px !important;
+            height: 200px !important
+        }
+
+        .quickfinder-item-effect-image-scale.hover .quickfinder-item-picture img {
+            -o-transform: none !important;
+            -ms-transform: none !important;
+            -webkit-transform: none !important;
+            transform: none !important
+        }
+
+        #temp .wpb_single_image img {
+            max-width: 150px
+        }
+
+        @media (max-width:1199px) {
+            .vc_custom_1460211427135 .col-md-3 {
+                width: 33%
+            }
+        }
+
+        @media (max-width:992px) {
+            .vc_custom_1460211427135 .col-md-3 {
+                width: 50%
+            }
+        }
+
+        @media (max-width:767px) {
+            .vc_custom_1460211427135 .col-md-3 {
+                width: 100%
+            }
+
+            .vc_custom_1460359418145 .gem-icon {
+                margin-right: 0
+            }
+        }
+
+        @media (max-width:990px) {
+            .full2 .fullwidth-block {
+                margin-top: -452px
+            }
+        }
+
+        .custom-column .gem-icon-half-1,
+        .custom-column .gem-icon-half-2 {
+            -webkit-animation: blink 2s linear infinite;
+            animation: blink 2s linear infinite;
+            color: red
+        }
+
+        @-webkit-keyframes blink {
+            0% {
+                color: #3b4451
+            }
+
+            20% {
+                color: #3b4451
+            }
+
+            40% {
+                color: #5f727f
+            }
+
+            60% {
+                color: #5f727f
+            }
+
+            80% {
+                color: #3b4451
+            }
+
+            100% {
+                color: #3b4451
+            }
+        }
+
+        @keyframes blink {
+            0% {
+                color: #3b4451
+            }
+
+            20% {
+                color: #3b4451
+            }
+
+            40% {
+                color: #5f727f
+            }
+
+            60% {
+                color: #5f727f
+            }
+
+            80% {
+                color: #3b4451
+            }
+
+            100% {
+                color: #3b4451
+            }
+        }
+
+        @media (max-width:400px) {
+            .vc_custom_1460375763307 {
+                display: none
+            }
+        }
+
+        @media (max-width:962px) {
+            .custom-font-2 img {
+                width: 100% !important
+            }
+        }
+
+        @media (max-width:321px) {
+            .custom-font-2 img {
+                margin-top: 30px
+            }
+        }
+
+        @media (max-width:768px) {
+            .margins {
+                margin-top: -90px
+            }
+
+            .vc_custom_1460205110410 span {
+                background-color: transparent !important
+            }
+
+            body .vc_custom_1462530724451 {
+                margin-top: 60px !important
+            }
+        }
+
+        @media (max-width:500px) {
+            .vc_column-inner.vc_custom_1460380473756 .gem-divider {
+                margin-bottom: 69px !important
+            }
+        }
+
+        @media screen and (min-width:1921px) {
+            .fullwidth-block {
+                background-size: cover !important
+            }
+
+            .vc_custom_1460382577366 .wpb_single_image.vc_align_right {
+                text-align: left
+            }
+
+            body .vc_custom_1460381148935 {
+                background-size: cover !important
+            }
+
+            body .vc_custom_1462530724451 {
+                background-size: cover !important
+            }
+
+            body .full .fullwidth-block {
+                background-size: 100% 100% !important
+            }
+
+            body .vc_custom_1460206649570 .fullwidth-block {
+                background-size: contain !important
+            }
+        }
+
+        li#menu-item-32511 {
+            display: none !important
+        }
+
+        @media screen and (max-width:1800px) {
+            body .vc_custom_1462530724451 {
+                background-position: 100% 100% !important;
+                background: #f0f3f2 url(https://www.incrementors.com/wp-content/uploads/2018/09/6-layers-1.jpg) !important
+            }
+        }
+
+        @media screen and (max-width:1200px) {
+            body .vc_custom_1462530724451 {
+                background: #f0f3f2 none !important
+            }
+
+            body .vc_custom_1460117625618 {
+                padding-top: 0 !important
+            }
+
+            body .vc_custom_1460109800952 .gem-image-centered-box {
+                margin-bottom: -10px !important
+            }
+        }
+
+        body .layout-boxed .vc_custom_1462530724451 {
+            background: #f0f3f2 url(https://www.incrementors.com/wp-content/uploads/2018/09/6-layers-1.jpg) !important
+        }
+
+        .custom-image-size img.vc_single_image-img.attachment-full {
+            max-width: 159px
+        }
+
+        @media screen and (min-width:768px) {
+            .custom-font span.light {
+                font-size: 37.4px !important
+            }
+        }
+
+        @media screen and (min-width:1170px) {
+            .block-content:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 95vh;
+                background: #313440
+            }
+        }
+
+        @media (max-height:700px) {
+            .vc_custom_1462608718730 .gem-icon {
+                display: none
+            }
+        }
+
+        @media (max-width:980px) {
+            .vc_custom_1460132297035 .fullwidth-block .fullwidth-block-background {
+                background-position: right top !important
+            }
+
+            body .vc_custom_1486736542557 {
+                margin-right: 0 !important;
+                margin-left: 0 !important
+            }
+        }
+
+        @media (min-width:1220px) {
+            .logo-2.custom-shield .vc_separator.vc_separator_align_center h3:after {
+                background-image: url(https://www.incrementors.com/wp-content/uploads/2018/09/3-layers-1-1.png);
+                content: "";
+                width: 97px;
+                height: 61px;
+                position: absolute;
+                top: -43px;
+                right: -62px;
+                background-repeat: no-repeat
+            }
+
+            .logo-2.custom-shield .vc_separator.vc_separator_align_center h3 {
+                position: relative
+            }
+        }
+
+        @media (max-height:800px) {
+            .vc_custom_1462608718730.z-index {
+                margin-top: -80px !important
+            }
+
+            .vc_custom_1462616306286 .custom-font {
+                margin-bottom: 40px
+            }
+        }
+
+        .wpcf7-form input[type="submit"]:not(.gem-button-wpcf-custom) {
+            margin: 0
+        }
+
+        .wpcf7-form input[type="submit"]:not(.gem-button-wpcf-custom) {
+            font-size: 14px
+        }
+
+        img.quickfinder-img-size-large.wp-post-image {
+            width: 120px;
+            height: 120px
+        }
+
+        /* sendbox css by shaan */
+        form#\31 ygjzw {
+            display: flex;
+            height: 50px;
+        }
+
+        form#\31 ygjzw input[type="email"] {
+            flex: 0 75%;
+            border-radius: 25px 0 0 25px;
+            padding-left: 35px;
+        }
+
+        form#\31 ygjzw p {
+            margin: 0px !important;
+        }
+
+        form#\31 ygjzw button {
+            border-radius: 0 25px 25px 0;
+            border: 1px solid #2b66a6;
+            background-color: #2b66a6;
+            color: white;
+            height: 50px;
+            font-size: 20px;
+            width: 192px;
+        }
+
+        form#\31 ygjzw button span {
+            font-size: 20px;
+            font-weight: 700;
+            color: white;
+        }
+
+        form#\31 ygjzw ::placeholder {
+            color: #2b66a6;
+        }
+
+        @media screen and (max-width: 550px) {
+            form#\31 ygjzw input[type="email"] {
+                width: 0px;
+            }
+        }
+
+
+        input#sub {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            background-color: #eda608 !important;
+            border-radius: 7px;
+        }
+
+        .gcfwork span.main-counter {
+            display: none;
+        }
